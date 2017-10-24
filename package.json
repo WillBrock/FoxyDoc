@@ -1,5 +1,6 @@
 {
   "name": "foxydoc",
+  "url" : "https://github.com/WillBrock/FoxyDoc",
   "version": "1.0.0",
   "description": "Docblock parser with custom tags",
   "main": "index.js",
