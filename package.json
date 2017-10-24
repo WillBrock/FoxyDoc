@@ -1,5 +1,5 @@
 {
-  "name": "FoxyDoc",
+  "name": "foxydoc",
   "version": "1.0.0",
   "description": "Docblock parser with custom tags",
   "main": "index.js",
