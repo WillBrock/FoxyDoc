@@ -7,7 +7,7 @@ Allows any type of docblock tag e.g. @param, @option, @foo, @bar
 # Install
 
 ```
-npm install foxydoc -g
+npm install -g foxydoc
 ```
 
 # Usage
